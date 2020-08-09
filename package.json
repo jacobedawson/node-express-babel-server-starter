@@ -1,5 +1,5 @@
 {
-  "name": "kwiz-server",
+  "name": "node-express-babel-server-starter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
